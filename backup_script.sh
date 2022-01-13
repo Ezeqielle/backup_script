@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# Nom			: backup_script.sh
+# Description	: Script de backup
+#
+# Auteur		: Mathis DI MASCIO
+# Email			: mathis.dimascio@gmail.com
+#
+# Version		: 1.0
+
 # item in list split by space
 readonly DIR_LIST='<your directory list to save (can be multiple folder)>'
 readonly DIR_SAVE='<where you want to save your backup (can be multiple folder)>'
